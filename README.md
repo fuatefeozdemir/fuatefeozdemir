@@ -61,8 +61,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contact_Me-222222?style=flat-square&logo=maildotru&logoColor=white" />
-  <strong>fuatefeozdemir41@gmail.com</strong>
-</p>
