@@ -22,14 +22,10 @@ Computer Engineering Student • Backend Development
 
 ### About Me
 
-I'm a Computer Engineering student at Gazi University who enjoys designing reliable software and continuously learning new technologies.
+- Specializing in backend development, software architecture, and database management.
 
-<br>
-
-- 💻 Specializing in backend development, software architecture, and database management.
-
-- 🎓 B.S. in Computer Engineering — **Gazi University**
-- 🏫 High School Diploma in Electrical-Electronic Technology — **Cezeri Yeşil Teknoloji MTAL**
+- Bachelor's Degree in Computer Engineering — **Gazi University**
+- High School Diploma in Electrical-Electronic Technology — **Cezeri Yeşil Teknoloji MTAL**
   
 ---
 
@@ -47,7 +43,7 @@ I'm a Computer Engineering student at Gazi University who enjoys designing relia
 
 ### Experience
 
-- **Vice President** — **Yazılım Araştırma ve Geliştirme Topluluğu**  
+- **President** — **Yazılım Araştırma ve Geliştirme Topluluğu**  
   Coordinating technical community initiatives and software development events.
 
 <br>
