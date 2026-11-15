@@ -5,7 +5,7 @@
 <br>
 
 <p>
-Computer Engineering Student • Backend Development
+Computer Engineering Student • Core Systems & Backend Development
 </p>
 
 <a href="https://linkedin.com/in/fuatefeozdemir">
@@ -22,7 +22,8 @@ Computer Engineering Student • Backend Development
 
 ### About Me
 
-- Specializing in backend development, software architecture, and database management.
+- Focused on backend development, systems programming, and software architecture. 
+- Passionate about algorithmic problem-solving and building simulation engines from scratch.
 
 - Bachelor's Degree in Computer Engineering — **Gazi University**
 - High School Diploma in Electrical-Electronic Technology — **Cezeri Yeşil Teknoloji MTAL**
@@ -49,7 +50,7 @@ Computer Engineering Student • Backend Development
 <br>
 
 - **Embedded Software Developer** — **Tulpar Teknofest Team**  
-  Developing the core architecture and high-performance system components for the **Ülgen** project using **Rust**.
+  Developing the core architecture and high-performance system components for the Ülgen project using Rust.
 
 ---
 
